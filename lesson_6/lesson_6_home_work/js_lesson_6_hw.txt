@@ -1,0 +1,5 @@
+
+form folder - um ka html file vori vra petqa sarqel validation.
+petqa forman chtoxel vor send lini qani der bolor nra dashter@ valid chen
+u en dashter@ voronq valid chen nerkel karmir ramkayov, erb bolor dashter@ valid en forman petqa send lini.
+

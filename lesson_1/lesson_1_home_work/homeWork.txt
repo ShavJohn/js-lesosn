@@ -1,0 +1,40 @@
+1.  Stexcel num popoxakan ev veragrel nran 3 arjeq.
+    Durs bereq ekranin ayd popoxakani arjeq@ alert() methodi migocov.
+
+2.  Stexcel a ev b popoxakanner ev veragrel nranc hamapatasxanabar 10 ev 2 arjeq.
+    Durs bereq ekranin console.log() methodi migocov nranc sum-@, subtraction-@,
+    division-@, multiplication-@ ev modulus-@(aysinqn %).
+
+3.  Stexcel c ev d popoxakanner ev veragrel nranc hamapatasxanabar 15 ev 2 arjeq.
+    Gumarel ayd 2 popoxakanneri arjeqner@ ev stacvac@ veragrel result popoxakanin.
+    Durs bereq ekranin console.log() methodi migocov result - i arjeq@.
+
+4.  Stexcel a, b ev c popoxakanner ev veragrel nranc hamapatasxanabar 10, 2 ev 5 arjeq.
+    Durs bereq ekranin console.log() methodi migocov nranc gumar@.
+
+5.  Stexcel a ev b popoxakanner ev veragrel nranc hamapatasxanabar 17 ev 10 arjeq.
+    a - ic haneq b ev ardyunqum stacvac@ veragreq c popoxakanin.
+    Stexcel d popoxakan ev veragrel nran 7 arjeq. Gumareq c ev d popoxakanner@,
+    stacvac@ veragrelov result popoxakanin.
+    Durs bereq ekranin console.log() methodi migocov result - i arjeq@.
+
+6.  Nerqevum nshvac code - @ poxeq aynpes , vor ayntex ogtagorcven hetevyal hramanner@
+    (+=, -=, *=, /=), idep code - i toxeri qanak@ chpetqa poxvi.
+    Popoxutyunic heto ev popoxutyunic arag num - i arjeq@ vergum petqa nuyn@ lini.
+
+    var num = 47;
+    num = num + 7;
+    num = num - 18;
+    num = num * 10;
+    num = num / 10;
+    alert(num);
+
+7.  Nerqevum nshvac code - @ poxeq aynpes , vor ayntex ogtagorcven hetevyal hramanner@
+    (++, --), idep code - i toxeri qanak@ chpetqa poxvi.
+    Popoxutyunic heto ev popoxutyunic arag num - i arjeq@ vergum petqa nuyn@ lini.
+
+    var num = 10;
+    num = num + 1;
+    num = num + 1;
+    num = num - 1;
+    alert(num);

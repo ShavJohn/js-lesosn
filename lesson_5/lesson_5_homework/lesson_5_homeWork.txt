@@ -1,0 +1,30 @@
+Lesson 5 home work
+
+sum folder - i meg arden iragorcac ka gumarum operacian.
+himq @ndhunelov da etapayin porcum eq zargacnel iran.
+
+etap 1.
+    + nshani poxaren petqa sarqeq select box vori meg
+    linen nayev mnacac tvabanakan gorcoxutyunner@ (+, -, /, *)
+    aysinqn user - in petq e hnaravorutyun taq @ntrelu inch gorcoxutyun petqe ani
+    erku imputneri meg grvac tveri het. petq e nayev stugel vor imputneri meg inchvor ban grac e ,
+    isk ete che u user - @ sexmuma = nshan@ petq@ gorcoxutyun chlini u placeholder html atributi
+    migocov aseq iren vor ettex petqa inchvor tiv lini.
+
+
+etap 2.
+    erb mard arden mek angam katarel e gorcoxutyun, aysinqn sexmel e = nshan@
+    apa petq e = knopkan desable aneq minchev user - @ chi poxel inputneric gone meki - i migi arjeq@
+    kam chi poxel select box - @.
+
+
+bard etap 3.
+    erb user - @ input - i meg grum e tvic baci ayl ban, petqe miangamic gngel ayn.
+
+
+USHADRUTYUN !!!!!!!!!!!!!!!!!
+
+xndir@ porceq etapayin lucel , aragin erkus@ cankali e vorpeszi luceq, isk ete errordi haxic gaq )))))))
+et paylun klini.
+
+

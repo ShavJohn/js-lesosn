@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Form</title>
+	<link href="css/styles.css" rel="stylesheet">
+	<link href="images/favicon.ico" rel="icon" type="image/x-icon">
+</head>
+<body>
+	<div class="container">
+		<form  onsubmit="return"   name="vform">
+			<div>
+			Name<br><input type="text" name="name" class="textInput" placeholder="name"><br>
+				<div id="name_error" class="val_error"></div>
+			</div>
+			<div>
+			Telephone<br><input type="text" name="telephone" class="textInput" placeholder="telephone"><br>
+				<div id="telephone_error" class="val_error"></div>
+			</div>
+			<div>
+			Email<br><input type="text" name="email" class="textInput" placeholder="email"><br>
+				<div id="email_error" class="val_error"></div>
+			</div>
+			<input type="submit" value="Send" class="btn">
+		</form>
+	</div>
+	<script src="js/scripts.js"></script>
+</body>
+</html>
